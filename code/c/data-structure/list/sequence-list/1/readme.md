@@ -3,6 +3,7 @@
 
 ## 运行
 ```bash
+mkdir -p ./temp/bin
 # 插入运算
 gcc ./insert.c -o ./temp/bin/insert && ./temp/bin/insert
 # 删除运算
